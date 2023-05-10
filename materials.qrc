@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>materials/Helvetica-Bold.ttf</file>
+    </qresource>
+</RCC>
